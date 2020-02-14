@@ -1,4 +1,4 @@
-# Bazar Flutter
+# Task Follow up
 Android and JAVA web application to manage department projects and calculate employees working hours per projects and tasks to generate monthly reports.
 
 ## ScreenShots:
